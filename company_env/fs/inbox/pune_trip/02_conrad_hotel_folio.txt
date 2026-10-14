@@ -1,0 +1,12 @@
+HOTEL FOLIO (scanned, OCR)
+Merchant: Conrad Pune
+Check-in: 2026-08-21
+Check-out: 2026-08-24
+Date: 2026-08-21
+Bill no: CP-882310
+Items:
+  - Room charge (3 nights x 9000)   27000
+  - Laundry                           600
+TOTAL: 27600
+Currency: INR
+Paid with: personal card

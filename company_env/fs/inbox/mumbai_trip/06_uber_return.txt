@@ -1,0 +1,10 @@
+RECEIPT (scanned, OCR)
+Merchant: Uber
+Date: 2026-09-16
+Bill no: UB-99-1204
+Description: Hotel to airport
+Items:
+  - Trip fare                   980
+TOTAL: 980
+Currency: INR
+Paid with: personal card

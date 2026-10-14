@@ -1,0 +1,10 @@
+RECEIPT (scanned, OCR)
+Merchant: Fabindia
+Date: 2026-09-15
+Bill no: FI-44012
+Description: Gift items (scarves) - personal
+Items:
+  - Silk scarf x2              2200
+TOTAL: 2200
+Currency: INR
+Paid with: personal card

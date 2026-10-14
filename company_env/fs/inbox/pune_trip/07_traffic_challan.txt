@@ -1,0 +1,10 @@
+RECEIPT (scanned, OCR)
+Merchant: Pune Traffic Police
+Date: 2026-08-23
+Bill no: PTP-E-558120
+Description: E-challan - traffic fine (speeding), paid by employee
+Items:
+  - Fine                        500
+TOTAL: 500
+Currency: INR
+Paid with: personal card

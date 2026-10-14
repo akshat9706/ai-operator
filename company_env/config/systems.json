@@ -1,0 +1,9 @@
+{
+  "expense_portal": {
+    "description": "Acme Expense Portal - expense reports; system of record for reimbursements.",
+    "base_url": "{PORTAL}",
+    "login": {"path": "/login", "username_field": "username", "password_field": "password",
+              "credential": "expense_portal"},
+    "audit": {"header": "X-Audit-Token", "credential": "expense_portal_audit", "path_prefix": "/audit"}
+  }
+}

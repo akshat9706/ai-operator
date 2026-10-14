@@ -1,0 +1,10 @@
+RECEIPT (scanned, OCR)
+Merchant: IRCTC
+Date: 2026-08-20
+Bill no: IR-5530177
+Description: Train DEL -> PUNE, AC chair car
+Items:
+  - Fare                      1850
+TOTAL: 1850
+Currency: INR
+Paid with: personal card

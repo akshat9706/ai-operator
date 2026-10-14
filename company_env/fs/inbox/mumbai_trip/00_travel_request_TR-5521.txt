@@ -1,0 +1,7 @@
+TRAVEL REQUEST TR-5521  (status: APPROVED)
+Employee: Priya Sharma (E1042)
+Destination: Mumbai
+Dates: 2026-09-14 to 2026-09-16
+Purpose: Customer workshop - Meridian Retail
+Cost center: CC-2207
+Approved by: Rahul Verma

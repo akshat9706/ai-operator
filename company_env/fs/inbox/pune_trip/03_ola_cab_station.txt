@@ -1,0 +1,10 @@
+RECEIPT (scanned, OCR)
+Merchant: Ola
+Date: 2026-08-21
+Bill no: OLA-90412
+Description: Station to hotel
+Items:
+  - Trip fare                   640
+TOTAL: 640
+Currency: INR
+Paid with: personal card

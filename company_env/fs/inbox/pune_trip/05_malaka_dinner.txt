@@ -1,0 +1,12 @@
+RECEIPT (scanned, OCR)
+Merchant: Malaka Spice
+Date: 2026-08-22
+Bill no: MS-70234
+Covers: 1
+Items:
+  - Thai green curry            390
+  - Jasmine rice                120
+  - Lemongrass tea              140
+TOTAL: 650
+Currency: INR
+Paid with: personal card

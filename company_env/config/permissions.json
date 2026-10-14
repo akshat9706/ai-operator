@@ -1,0 +1,19 @@
+{
+  "default": "ask",
+  "rules": [
+    {"pattern": "http:* {PORTAL}/__*", "decision": "deny", "reason": "Operations endpoints are out of scope for operators."},
+    {"pattern": "http:* {PORTAL}/audit*", "decision": "deny", "reason": "The audit API is reserved for the independent verifier."},
+    {"pattern": "http:POST {PORTAL}/reports/*/submit", "decision": "ask", "reason": "Submitting an expense report is a financial commitment on behalf of the employee."},
+    {"pattern": "http:GET {PORTAL}/*", "decision": "allow"},
+    {"pattern": "http:POST {PORTAL}/*", "decision": "allow", "reason": "Drafting and correcting reports is reversible."},
+    {"pattern": "http:*", "decision": "deny", "reason": "Host is not on the company allowlist."},
+    {"pattern": "fs_list:*", "decision": "allow"},
+    {"pattern": "fs_read:knowledge/*", "decision": "allow"},
+    {"pattern": "fs_read:inbox/*", "decision": "allow"},
+    {"pattern": "fs_read:directory/*", "decision": "allow"},
+    {"pattern": "fs_read:out/*", "decision": "allow"},
+    {"pattern": "fs_write:out/*", "decision": "allow"},
+    {"pattern": "fs_write:*", "decision": "deny", "reason": "Operators may only write to out/."},
+    {"pattern": "tool:*", "decision": "allow"}
+  ]
+}

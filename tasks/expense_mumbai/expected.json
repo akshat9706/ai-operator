@@ -1,0 +1,23 @@
+{
+  "_note": "Hand-derived ground truth for the Mumbai trip task, independent of any agent code.",
+  "owner": "priya.sharma",
+  "title": "Trip - Mumbai - Sep 2026",
+  "cost_center": "CC-2207",
+  "status": "submitted",
+  "lines": [
+    {"receipt_ref": "01_indigo_flight",     "category": "Transport", "amount": 6420,  "nights": 1},
+    {"receipt_ref": "02_meru_taxi_airport", "category": "Transport", "amount": 1150,  "nights": 1},
+    {"receipt_ref": "03_taj_hotel_folio",   "category": "Lodging",   "amount": 15000, "nights": 2},
+    {"receipt_ref": "04_trishna_dinner",    "category": "Meals",     "amount": 1500,  "nights": 1},
+    {"receipt_ref": "05_kyani_lunch",       "category": "Meals",     "amount": 980,   "nights": 1},
+    {"receipt_ref": "06_uber_return",       "category": "Transport", "amount": 980,   "nights": 1}
+  ],
+  "total": 26030,
+  "excluded_refs": ["04b_trishna_dinner_rescan", "07_fabindia_gifts"],
+  "why": {
+    "03_taj_hotel_folio": "room only; minibar 850 is an incidental",
+    "04_trishna_dinner": "food 1750 (alcohol 890 excluded) capped to 1500/day",
+    "04b_trishna_dinner_rescan": "duplicate of bill TR-20993",
+    "07_fabindia_gifts": "personal purchase"
+  }
+}

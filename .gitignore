@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+runs/
+.venv/
+company_env/fs/out/*
+!company_env/fs/out/.gitkeep
+.env

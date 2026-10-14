@@ -1,0 +1,10 @@
+RECEIPT (scanned, OCR)
+Merchant: Meru Cabs
+Date: 2026-09-14
+Bill no: MC-77120
+Description: Airport to hotel
+Items:
+  - Fare                       1150
+TOTAL: 1150
+Currency: INR
+Paid with: personal card

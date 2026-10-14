@@ -1,0 +1,12 @@
+RECEIPT (scanned, OCR)
+Merchant: Kyani & Co.
+Date: 2026-09-15
+Bill no: KY-5521
+Covers: 1
+Items:
+  - Berry pulao                 520
+  - Caramel custard             180
+  - Chai x2                     280
+TOTAL: 980
+Currency: INR
+Paid with: personal card

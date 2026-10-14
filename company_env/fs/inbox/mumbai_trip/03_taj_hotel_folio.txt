@@ -1,0 +1,12 @@
+HOTEL FOLIO (scanned, OCR)
+Merchant: Taj Lands End, Mumbai
+Check-in: 2026-09-14
+Check-out: 2026-09-16
+Date: 2026-09-14
+Bill no: TLE-300917
+Items:
+  - Room charge (2 nights x 7500)   15000
+  - Minibar                           850
+TOTAL: 15850
+Currency: INR
+Paid with: personal card

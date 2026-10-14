@@ -1,0 +1,11 @@
+RECEIPT (scanned, OCR)
+Merchant: IndiGo Airlines
+Date: 2026-09-14
+Bill no: 6E-884213
+Description: Flight DEL -> BOM, economy
+Items:
+  - Airfare economy            6000
+  - Convenience fee             420
+TOTAL: 6420
+Currency: INR
+Paid with: personal card

@@ -1,0 +1,6 @@
+[
+  {"username": "priya.sharma", "name": "Priya Sharma", "employee_id": "E1042", "email": "priya.sharma@acme.example",
+   "manager": "rahul.verma", "default_cost_center": "CC-1042"},
+  {"username": "rahul.verma", "name": "Rahul Verma", "employee_id": "E0877", "email": "rahul.verma@acme.example",
+   "manager": "meera.iyer", "default_cost_center": "CC-3310"}
+]

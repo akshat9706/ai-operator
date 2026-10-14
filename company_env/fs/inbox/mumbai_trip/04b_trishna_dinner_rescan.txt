@@ -1,0 +1,13 @@
+RECEIPT (re-scan of the same bill, uploaded twice by mistake)
+Merchant: Trishna Restaurant
+Date: 2026-09-14
+Bill no: TR-20993
+Covers: 1
+Items:
+  - Butter garlic crab         1200
+  - Garlic naan x2              150
+  - Kulfi                       400
+  - Kingfisher beer x2 (alcohol) 890
+TOTAL: 2640
+Currency: INR
+Paid with: personal card
